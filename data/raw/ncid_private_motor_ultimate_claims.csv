@@ -1,0 +1,841 @@
+Year,AccidentQuarter,Measure,ClaimType,Value
+2010,201003,Ultimate Costs,Accidental Damage,37550683.28
+2010,201006,Ultimate Costs,Accidental Damage,25304017
+2010,201009,Ultimate Costs,Accidental Damage,24723556.55
+2010,201012,Ultimate Costs,Accidental Damage,37148259.050000004
+2011,201103,Ultimate Costs,Accidental Damage,27539292.72863
+2011,201106,Ultimate Costs,Accidental Damage,21147997.14519
+2011,201109,Ultimate Costs,Accidental Damage,21367475.91678
+2011,201112,Ultimate Costs,Accidental Damage,35050100.092029996
+2012,201203,Ultimate Costs,Accidental Damage,23527647.322839998
+2012,201206,Ultimate Costs,Accidental Damage,22484189.06751
+2012,201209,Ultimate Costs,Accidental Damage,21601315.382460002
+2012,201212,Ultimate Costs,Accidental Damage,25282277.54549
+2013,201303,Ultimate Costs,Accidental Damage,26158317.13727
+2013,201306,Ultimate Costs,Accidental Damage,20979231.55481
+2013,201309,Ultimate Costs,Accidental Damage,20906285.16732
+2013,201312,Ultimate Costs,Accidental Damage,26549248.64287
+2014,201403,Ultimate Costs,Accidental Damage,32056795.43414
+2014,201406,Ultimate Costs,Accidental Damage,20800833.73142
+2014,201409,Ultimate Costs,Accidental Damage,21811725.664359998
+2014,201412,Ultimate Costs,Accidental Damage,28568015.06007
+2015,201503,Ultimate Costs,Accidental Damage,29972146.35047
+2015,201506,Ultimate Costs,Accidental Damage,20012364.09229
+2015,201509,Ultimate Costs,Accidental Damage,20054547.49041
+2015,201512,Ultimate Costs,Accidental Damage,28848073.35384
+2016,201603,Ultimate Costs,Accidental Damage,28138156.142500002
+2016,201606,Ultimate Costs,Accidental Damage,18210603.23983
+2016,201609,Ultimate Costs,Accidental Damage,17062586.91183
+2016,201612,Ultimate Costs,Accidental Damage,19977896.04174
+2017,201703,Ultimate Costs,Accidental Damage,24739104.510159
+2017,201706,Ultimate Costs,Accidental Damage,16189536.025469
+2017,201709,Ultimate Costs,Accidental Damage,17610629.152398
+2017,201712,Ultimate Costs,Accidental Damage,23341508.116303
+2018,201803,Ultimate Costs,Accidental Damage,26589239.21653
+2018,201806,Ultimate Costs,Accidental Damage,17707664.455858
+2018,201809,Ultimate Costs,Accidental Damage,19165011.589262
+2018,201812,Ultimate Costs,Accidental Damage,22093404.672937
+2019,201903,Ultimate Costs,Accidental Damage,23881797.167658
+2019,201906,Ultimate Costs,Accidental Damage,18482123.148277
+2019,201909,Ultimate Costs,Accidental Damage,20584469.878563
+2019,201912,Ultimate Costs,Accidental Damage,26490354.442919
+2020,202003,Ultimate Costs,Accidental Damage,27051882.973988
+2020,202006,Ultimate Costs,Accidental Damage,9969142.063787
+2020,202009,Ultimate Costs,Accidental Damage,17365605.997729998
+2020,202012,Ultimate Costs,Accidental Damage,19905012.120633
+2021,202103,Ultimate Costs,Accidental Damage,18911502.532307
+2021,202106,Ultimate Costs,Accidental Damage,19130299.938705
+2021,202109,Ultimate Costs,Accidental Damage,25535029.559464
+2021,202112,Ultimate Costs,Accidental Damage,33113290.831693
+2022,202203,Ultimate Costs,Accidental Damage,37979708.317736
+2022,202206,Ultimate Costs,Accidental Damage,35047349.531123996
+2022,202209,Ultimate Costs,Accidental Damage,38879246.258239
+2022,202212,Ultimate Costs,Accidental Damage,52973231.33701
+2023,202303,Ultimate Costs,Accidental Damage,51569501.299072
+2023,202306,Ultimate Costs,Accidental Damage,45158921.756323
+2023,202309,Ultimate Costs,Accidental Damage,48652337.559906
+2023,202312,Ultimate Costs,Accidental Damage,65888649.509084
+2024,202403,Ultimate Costs,Accidental Damage,68312135.316802
+2024,202406,Ultimate Costs,Accidental Damage,50631759.497219004
+2024,202409,Ultimate Costs,Accidental Damage,51558766.18889
+2024,202412,Ultimate Costs,Accidental Damage,54528445.472035
+2010,201003,Ultimate Costs,Fire and Theft,5966392.36
+2010,201006,Ultimate Costs,Fire and Theft,5788135.5200000005
+2010,201009,Ultimate Costs,Fire and Theft,5406168.07
+2010,201012,Ultimate Costs,Fire and Theft,6189922.92
+2011,201103,Ultimate Costs,Fire and Theft,5863196.39727
+2011,201106,Ultimate Costs,Fire and Theft,4990670.69897
+2011,201109,Ultimate Costs,Fire and Theft,5123479.18919
+2011,201112,Ultimate Costs,Fire and Theft,5724552.45567
+2012,201203,Ultimate Costs,Fire and Theft,5208380.61181
+2012,201206,Ultimate Costs,Fire and Theft,4808558.96052
+2012,201209,Ultimate Costs,Fire and Theft,4930422.24818
+2012,201212,Ultimate Costs,Fire and Theft,5007721.35534
+2013,201303,Ultimate Costs,Fire and Theft,5331074.18916
+2013,201306,Ultimate Costs,Fire and Theft,5276364.76999
+2013,201309,Ultimate Costs,Fire and Theft,5074684.05048
+2013,201312,Ultimate Costs,Fire and Theft,6225556.40855
+2014,201403,Ultimate Costs,Fire and Theft,6004880.46587
+2014,201406,Ultimate Costs,Fire and Theft,5380210.43187
+2014,201409,Ultimate Costs,Fire and Theft,5418662.28842
+2014,201412,Ultimate Costs,Fire and Theft,5619033.83707
+2015,201503,Ultimate Costs,Fire and Theft,5262338.74023
+2015,201506,Ultimate Costs,Fire and Theft,5041190.45421
+2015,201509,Ultimate Costs,Fire and Theft,4590145.06695
+2015,201512,Ultimate Costs,Fire and Theft,4449782.06975
+2016,201603,Ultimate Costs,Fire and Theft,3829800.42223
+2016,201606,Ultimate Costs,Fire and Theft,3510066.93106
+2016,201609,Ultimate Costs,Fire and Theft,3185865.10151
+2016,201612,Ultimate Costs,Fire and Theft,3162751.23416
+2017,201703,Ultimate Costs,Fire and Theft,3480361.2093
+2017,201706,Ultimate Costs,Fire and Theft,3040690.83982
+2017,201709,Ultimate Costs,Fire and Theft,2796296.0542
+2017,201712,Ultimate Costs,Fire and Theft,2774564.83208
+2018,201803,Ultimate Costs,Fire and Theft,3286019.7718399996
+2018,201806,Ultimate Costs,Fire and Theft,3089697.55264
+2018,201809,Ultimate Costs,Fire and Theft,3011995.9314
+2018,201812,Ultimate Costs,Fire and Theft,3351665.00654
+2019,201903,Ultimate Costs,Fire and Theft,3484625.001
+2019,201906,Ultimate Costs,Fire and Theft,3733738.02332
+2019,201909,Ultimate Costs,Fire and Theft,3895547.68123
+2019,201912,Ultimate Costs,Fire and Theft,3679087.26629
+2020,202003,Ultimate Costs,Fire and Theft,3323636.87037
+2020,202006,Ultimate Costs,Fire and Theft,1476547.5716300001
+2020,202009,Ultimate Costs,Fire and Theft,2534027.9966100003
+2020,202012,Ultimate Costs,Fire and Theft,2230774.17314
+2021,202103,Ultimate Costs,Fire and Theft,1769197.7310300001
+2021,202106,Ultimate Costs,Fire and Theft,2658253.44857
+2021,202109,Ultimate Costs,Fire and Theft,2622336.4920200002
+2021,202112,Ultimate Costs,Fire and Theft,3283867.7756499997
+2022,202203,Ultimate Costs,Fire and Theft,3880426.914199
+2022,202206,Ultimate Costs,Fire and Theft,5222356.187975
+2022,202209,Ultimate Costs,Fire and Theft,5265658.490154
+2022,202212,Ultimate Costs,Fire and Theft,6124672.12082
+2023,202303,Ultimate Costs,Fire and Theft,5826106.748148
+2023,202306,Ultimate Costs,Fire and Theft,6444636.729486
+2023,202309,Ultimate Costs,Fire and Theft,5882922.439468
+2023,202312,Ultimate Costs,Fire and Theft,6148720.78477
+2024,202403,Ultimate Costs,Fire and Theft,6660140.805591
+2024,202406,Ultimate Costs,Fire and Theft,7321517.865051
+2024,202409,Ultimate Costs,Fire and Theft,6860184.2012869995
+2024,202412,Ultimate Costs,Fire and Theft,5941955.344381
+2010,201003,Ultimate Costs,Third Party Damage,19284527.23
+2010,201006,Ultimate Costs,Third Party Damage,19234741.48
+2010,201009,Ultimate Costs,Third Party Damage,19143245.16
+2010,201012,Ultimate Costs,Third Party Damage,21433843.503
+2011,201103,Ultimate Costs,Third Party Damage,15281846.59
+2011,201106,Ultimate Costs,Third Party Damage,16489805.81
+2011,201109,Ultimate Costs,Third Party Damage,16777677.89
+2011,201112,Ultimate Costs,Third Party Damage,19433065.76
+2012,201203,Ultimate Costs,Third Party Damage,17739096.73
+2012,201206,Ultimate Costs,Third Party Damage,18538675.26
+2012,201209,Ultimate Costs,Third Party Damage,17676177.19185
+2012,201212,Ultimate Costs,Third Party Damage,19510689.41484
+2013,201303,Ultimate Costs,Third Party Damage,17339643.98532
+2013,201306,Ultimate Costs,Third Party Damage,16723562.00691
+2013,201309,Ultimate Costs,Third Party Damage,17211502.89617
+2013,201312,Ultimate Costs,Third Party Damage,19611086.56604
+2014,201403,Ultimate Costs,Third Party Damage,18188095.991175998
+2014,201406,Ultimate Costs,Third Party Damage,17949429.64417
+2014,201409,Ultimate Costs,Third Party Damage,17066309.566554
+2014,201412,Ultimate Costs,Third Party Damage,21136472.494488
+2015,201503,Ultimate Costs,Third Party Damage,18811482.860786
+2015,201506,Ultimate Costs,Third Party Damage,17292485.34409
+2015,201509,Ultimate Costs,Third Party Damage,16995453.850777
+2015,201512,Ultimate Costs,Third Party Damage,19148970.964056
+2016,201603,Ultimate Costs,Third Party Damage,18678327.297437
+2016,201606,Ultimate Costs,Third Party Damage,16484977.019585
+2016,201609,Ultimate Costs,Third Party Damage,16202400.664416
+2016,201612,Ultimate Costs,Third Party Damage,17830713.657378
+2017,201703,Ultimate Costs,Third Party Damage,17880376.482691
+2017,201706,Ultimate Costs,Third Party Damage,15892588.314187
+2017,201709,Ultimate Costs,Third Party Damage,16834011.004908
+2017,201712,Ultimate Costs,Third Party Damage,19928001.541345
+2018,201803,Ultimate Costs,Third Party Damage,18610669.48799
+2018,201806,Ultimate Costs,Third Party Damage,17375778.059122
+2018,201809,Ultimate Costs,Third Party Damage,18355394.97942
+2018,201812,Ultimate Costs,Third Party Damage,20466724.774539
+2019,201903,Ultimate Costs,Third Party Damage,18102768.534417
+2019,201906,Ultimate Costs,Third Party Damage,18192229.119914
+2019,201909,Ultimate Costs,Third Party Damage,23259541.57884
+2019,201912,Ultimate Costs,Third Party Damage,23763282.398469
+2020,202003,Ultimate Costs,Third Party Damage,19827415.987893
+2020,202006,Ultimate Costs,Third Party Damage,8141407.602172
+2020,202009,Ultimate Costs,Third Party Damage,15468699.69765
+2020,202012,Ultimate Costs,Third Party Damage,17069403.907578
+2021,202103,Ultimate Costs,Third Party Damage,10191208.642382
+2021,202106,Ultimate Costs,Third Party Damage,19039810.872582
+2021,202109,Ultimate Costs,Third Party Damage,23424280.828346
+2021,202112,Ultimate Costs,Third Party Damage,26729366.363456998
+2022,202203,Ultimate Costs,Third Party Damage,25181977.072027
+2022,202206,Ultimate Costs,Third Party Damage,29347452.489331
+2022,202209,Ultimate Costs,Third Party Damage,31074568.818017
+2022,202212,Ultimate Costs,Third Party Damage,38327156.632151
+2023,202303,Ultimate Costs,Third Party Damage,35864302.374083
+2023,202306,Ultimate Costs,Third Party Damage,37019867.411065
+2023,202309,Ultimate Costs,Third Party Damage,43711226.947847
+2023,202312,Ultimate Costs,Third Party Damage,40847568.222356
+2024,202403,Ultimate Costs,Third Party Damage,43337008.065096
+2024,202406,Ultimate Costs,Third Party Damage,42484497.042598
+2024,202409,Ultimate Costs,Third Party Damage,38326471.929735
+2024,202412,Ultimate Costs,Third Party Damage,33826316.689609
+2010,201003,Ultimate Costs,Third Party Injury (<=250k),68752502.55938
+2010,201006,Ultimate Costs,Third Party Injury (<=250k),69804165.24745099
+2010,201009,Ultimate Costs,Third Party Injury (<=250k),74723773.246502
+2010,201012,Ultimate Costs,Third Party Injury (<=250k),77645078.286998
+2011,201103,Ultimate Costs,Third Party Injury (<=250k),66983294.781529
+2011,201106,Ultimate Costs,Third Party Injury (<=250k),70161773.22999
+2011,201109,Ultimate Costs,Third Party Injury (<=250k),72693663.53019
+2011,201112,Ultimate Costs,Third Party Injury (<=250k),87436609.245664
+2012,201203,Ultimate Costs,Third Party Injury (<=250k),88761528.75899
+2012,201206,Ultimate Costs,Third Party Injury (<=250k),88711549.365526
+2012,201209,Ultimate Costs,Third Party Injury (<=250k),88617022.950026
+2012,201212,Ultimate Costs,Third Party Injury (<=250k),97359773.035714
+2013,201303,Ultimate Costs,Third Party Injury (<=250k),87542826.15001
+2013,201306,Ultimate Costs,Third Party Injury (<=250k),80485138.46832
+2013,201309,Ultimate Costs,Third Party Injury (<=250k),86702978.333743
+2013,201312,Ultimate Costs,Third Party Injury (<=250k),97566897.548733
+2014,201403,Ultimate Costs,Third Party Injury (<=250k),92869990.801841
+2014,201406,Ultimate Costs,Third Party Injury (<=250k),91375917.468161
+2014,201409,Ultimate Costs,Third Party Injury (<=250k),92225725.986277
+2014,201412,Ultimate Costs,Third Party Injury (<=250k),113327207.268025
+2015,201503,Ultimate Costs,Third Party Injury (<=250k),100075696.614357
+2015,201506,Ultimate Costs,Third Party Injury (<=250k),93918851.65941
+2015,201509,Ultimate Costs,Third Party Injury (<=250k),89731907.40520799
+2015,201512,Ultimate Costs,Third Party Injury (<=250k),102507201.282924
+2016,201603,Ultimate Costs,Third Party Injury (<=250k),90932133.382634
+2016,201606,Ultimate Costs,Third Party Injury (<=250k),90083298.114678
+2016,201609,Ultimate Costs,Third Party Injury (<=250k),83675251.443148
+2016,201612,Ultimate Costs,Third Party Injury (<=250k),97749946.739567
+2017,201703,Ultimate Costs,Third Party Injury (<=250k),92941699.11099
+2017,201706,Ultimate Costs,Third Party Injury (<=250k),82172272.850058
+2017,201709,Ultimate Costs,Third Party Injury (<=250k),80493699.814541
+2017,201712,Ultimate Costs,Third Party Injury (<=250k),99014769.332436
+2018,201803,Ultimate Costs,Third Party Injury (<=250k),81739538.838728
+2018,201806,Ultimate Costs,Third Party Injury (<=250k),79238944.779672
+2018,201809,Ultimate Costs,Third Party Injury (<=250k),71739760.944689
+2018,201812,Ultimate Costs,Third Party Injury (<=250k),88891705.417833
+2019,201903,Ultimate Costs,Third Party Injury (<=250k),78592085.551016
+2019,201906,Ultimate Costs,Third Party Injury (<=250k),69536449.74301
+2019,201909,Ultimate Costs,Third Party Injury (<=250k),73189547.129326
+2019,201912,Ultimate Costs,Third Party Injury (<=250k),86041942.024489
+2020,202003,Ultimate Costs,Third Party Injury (<=250k),66734726.545886
+2020,202006,Ultimate Costs,Third Party Injury (<=250k),27404286.230692
+2020,202009,Ultimate Costs,Third Party Injury (<=250k),57713858.455587
+2020,202012,Ultimate Costs,Third Party Injury (<=250k),59578367.87897
+2021,202103,Ultimate Costs,Third Party Injury (<=250k),34946698.552732
+2021,202106,Ultimate Costs,Third Party Injury (<=250k),54791923.504395
+2021,202109,Ultimate Costs,Third Party Injury (<=250k),57227033.33781
+2021,202112,Ultimate Costs,Third Party Injury (<=250k),62153958.528179
+2022,202203,Ultimate Costs,Third Party Injury (<=250k),62671244.589973
+2022,202206,Ultimate Costs,Third Party Injury (<=250k),61900694.807397
+2022,202209,Ultimate Costs,Third Party Injury (<=250k),63440189.642936
+2022,202212,Ultimate Costs,Third Party Injury (<=250k),65718246.161116004
+2023,202303,Ultimate Costs,Third Party Injury (<=250k),62229907.762618005
+2023,202306,Ultimate Costs,Third Party Injury (<=250k),63310512.515568
+2023,202309,Ultimate Costs,Third Party Injury (<=250k),59043914.164987
+2023,202312,Ultimate Costs,Third Party Injury (<=250k),69791271.97422
+2024,202403,Ultimate Costs,Third Party Injury (<=250k),76533768.952922
+2024,202406,Ultimate Costs,Third Party Injury (<=250k),70749589.408084
+2024,202409,Ultimate Costs,Third Party Injury (<=250k),73937494.01763
+2024,202412,Ultimate Costs,Third Party Injury (<=250k),74117660.059232
+2010,201003,Ultimate Costs,Third Party Injury (>250k),24833404.112962
+2010,201006,Ultimate Costs,Third Party Injury (>250k),20807803.39633
+2010,201009,Ultimate Costs,Third Party Injury (>250k),23526551.701342
+2010,201012,Ultimate Costs,Third Party Injury (>250k),26268924.327712998
+2011,201103,Ultimate Costs,Third Party Injury (>250k),22558016.828508
+2011,201106,Ultimate Costs,Third Party Injury (>250k),41320840.521802
+2011,201109,Ultimate Costs,Third Party Injury (>250k),34240743.225761004
+2011,201112,Ultimate Costs,Third Party Injury (>250k),57751165.995509
+2012,201203,Ultimate Costs,Third Party Injury (>250k),31789233.619048
+2012,201206,Ultimate Costs,Third Party Injury (>250k),25229839.508284
+2012,201209,Ultimate Costs,Third Party Injury (>250k),31143052.399685
+2012,201212,Ultimate Costs,Third Party Injury (>250k),30548380.097996
+2013,201303,Ultimate Costs,Third Party Injury (>250k),33399655.652597
+2013,201306,Ultimate Costs,Third Party Injury (>250k),42136583.934781
+2013,201309,Ultimate Costs,Third Party Injury (>250k),28383199.055547
+2013,201312,Ultimate Costs,Third Party Injury (>250k),31609940.836016
+2014,201403,Ultimate Costs,Third Party Injury (>250k),28033989.394877
+2014,201406,Ultimate Costs,Third Party Injury (>250k),40865860.649675
+2014,201409,Ultimate Costs,Third Party Injury (>250k),33721662.052198
+2014,201412,Ultimate Costs,Third Party Injury (>250k),44717735.69035
+2015,201503,Ultimate Costs,Third Party Injury (>250k),37082923.877552
+2015,201506,Ultimate Costs,Third Party Injury (>250k),26946459.002297
+2015,201509,Ultimate Costs,Third Party Injury (>250k),23725529.656153
+2015,201512,Ultimate Costs,Third Party Injury (>250k),28945343.741996
+2016,201603,Ultimate Costs,Third Party Injury (>250k),35551686.299919
+2016,201606,Ultimate Costs,Third Party Injury (>250k),32373175.702679
+2016,201609,Ultimate Costs,Third Party Injury (>250k),31331240.205694
+2016,201612,Ultimate Costs,Third Party Injury (>250k),37311474.885350004
+2017,201703,Ultimate Costs,Third Party Injury (>250k),22455383.865746
+2017,201706,Ultimate Costs,Third Party Injury (>250k),40158633.582143
+2017,201709,Ultimate Costs,Third Party Injury (>250k),38025944.837966
+2017,201712,Ultimate Costs,Third Party Injury (>250k),40080912.18413
+2018,201803,Ultimate Costs,Third Party Injury (>250k),26805565.353506
+2018,201806,Ultimate Costs,Third Party Injury (>250k),42530823.564184
+2018,201809,Ultimate Costs,Third Party Injury (>250k),36309343.037511
+2018,201812,Ultimate Costs,Third Party Injury (>250k),38127125.432393
+2019,201903,Ultimate Costs,Third Party Injury (>250k),31166678.802086998
+2019,201906,Ultimate Costs,Third Party Injury (>250k),28896597.549201
+2019,201909,Ultimate Costs,Third Party Injury (>250k),29073070.389657002
+2019,201912,Ultimate Costs,Third Party Injury (>250k),32016263.902955
+2020,202003,Ultimate Costs,Third Party Injury (>250k),23233006.013395
+2020,202006,Ultimate Costs,Third Party Injury (>250k),40993009.957237005
+2020,202009,Ultimate Costs,Third Party Injury (>250k),28428720.58425
+2020,202012,Ultimate Costs,Third Party Injury (>250k),42162625.942303
+2021,202103,Ultimate Costs,Third Party Injury (>250k),21359038.954022
+2021,202106,Ultimate Costs,Third Party Injury (>250k),20004343.256711
+2021,202109,Ultimate Costs,Third Party Injury (>250k),53092394.277405
+2021,202112,Ultimate Costs,Third Party Injury (>250k),73698344.731634
+2022,202203,Ultimate Costs,Third Party Injury (>250k),45655981.981633
+2022,202206,Ultimate Costs,Third Party Injury (>250k),61815938.754551
+2022,202209,Ultimate Costs,Third Party Injury (>250k),31232925.459911
+2022,202212,Ultimate Costs,Third Party Injury (>250k),55867244.480668
+2023,202303,Ultimate Costs,Third Party Injury (>250k),55004846.859322
+2023,202306,Ultimate Costs,Third Party Injury (>250k),41761780.459375
+2023,202309,Ultimate Costs,Third Party Injury (>250k),52716976.473423004
+2023,202312,Ultimate Costs,Third Party Injury (>250k),35647571.733544
+2024,202403,Ultimate Costs,Third Party Injury (>250k),51409662.678711
+2024,202406,Ultimate Costs,Third Party Injury (>250k),40513165.310381
+2024,202409,Ultimate Costs,Third Party Injury (>250k),36991309.873026
+2024,202412,Ultimate Costs,Third Party Injury (>250k),39306051.975975
+2010,201003,Ultimate Costs,Third Party Injury (Total),93585906.672343
+2010,201006,Ultimate Costs,Third Party Injury (Total),90611968.643782
+2010,201009,Ultimate Costs,Third Party Injury (Total),98250324.947844
+2010,201012,Ultimate Costs,Third Party Injury (Total),103914002.614712
+2011,201103,Ultimate Costs,Third Party Injury (Total),89541311.610037
+2011,201106,Ultimate Costs,Third Party Injury (Total),111482613.751803
+2011,201109,Ultimate Costs,Third Party Injury (Total),106934406.755951
+2011,201112,Ultimate Costs,Third Party Injury (Total),145187775.241184
+2012,201203,Ultimate Costs,Third Party Injury (Total),120550762.38803901
+2012,201206,Ultimate Costs,Third Party Injury (Total),113941388.873811
+2012,201209,Ultimate Costs,Third Party Injury (Total),119760075.33972299
+2012,201212,Ultimate Costs,Third Party Injury (Total),127908153.13371
+2013,201303,Ultimate Costs,Third Party Injury (Total),120942481.812617
+2013,201306,Ultimate Costs,Third Party Injury (Total),122621722.393112
+2013,201309,Ultimate Costs,Third Party Injury (Total),115086177.38927999
+2013,201312,Ultimate Costs,Third Party Injury (Total),129176838.394749
+2014,201403,Ultimate Costs,Third Party Injury (Total),120903980.196729
+2014,201406,Ultimate Costs,Third Party Injury (Total),132241778.117837
+2014,201409,Ultimate Costs,Third Party Injury (Total),125947388.03846599
+2014,201412,Ultimate Costs,Third Party Injury (Total),158044942.958376
+2015,201503,Ultimate Costs,Third Party Injury (Total),137158620.48191
+2015,201506,Ultimate Costs,Third Party Injury (Total),120865309.671708
+2015,201509,Ultimate Costs,Third Party Injury (Total),113457437.061361
+2015,201512,Ultimate Costs,Third Party Injury (Total),131452544.02492
+2016,201603,Ultimate Costs,Third Party Injury (Total),126483819.68255399
+2016,201606,Ultimate Costs,Third Party Injury (Total),122456473.817358
+2016,201609,Ultimate Costs,Third Party Injury (Total),115006492.648843
+2016,201612,Ultimate Costs,Third Party Injury (Total),135061421.634907
+2017,201703,Ultimate Costs,Third Party Injury (Total),115397083.979738
+2017,201706,Ultimate Costs,Third Party Injury (Total),122330906.42920199
+2017,201709,Ultimate Costs,Third Party Injury (Total),118519644.659508
+2017,201712,Ultimate Costs,Third Party Injury (Total),139095681.518567
+2018,201803,Ultimate Costs,Third Party Injury (Total),108545104.19323601
+2018,201806,Ultimate Costs,Third Party Injury (Total),121769768.347857
+2018,201809,Ultimate Costs,Third Party Injury (Total),108049103.983211
+2018,201812,Ultimate Costs,Third Party Injury (Total),127018830.847218
+2019,201903,Ultimate Costs,Third Party Injury (Total),109758764.366104
+2019,201906,Ultimate Costs,Third Party Injury (Total),98433047.277212
+2019,201909,Ultimate Costs,Third Party Injury (Total),102262617.522985
+2019,201912,Ultimate Costs,Third Party Injury (Total),118058205.941446
+2020,202003,Ultimate Costs,Third Party Injury (Total),89967732.554282
+2020,202006,Ultimate Costs,Third Party Injury (Total),68397296.177931
+2020,202009,Ultimate Costs,Third Party Injury (Total),86142579.039839
+2020,202012,Ultimate Costs,Third Party Injury (Total),101740994.830274
+2021,202103,Ultimate Costs,Third Party Injury (Total),56305737.495756
+2021,202106,Ultimate Costs,Third Party Injury (Total),74796266.75210801
+2021,202109,Ultimate Costs,Third Party Injury (Total),110319427.605216
+2021,202112,Ultimate Costs,Third Party Injury (Total),135852303.27081499
+2022,202203,Ultimate Costs,Third Party Injury (Total),108327227.556617
+2022,202206,Ultimate Costs,Third Party Injury (Total),123716633.541948
+2022,202209,Ultimate Costs,Third Party Injury (Total),94673115.112848
+2022,202212,Ultimate Costs,Third Party Injury (Total),121585490.644785
+2023,202303,Ultimate Costs,Third Party Injury (Total),117234754.601942
+2023,202306,Ultimate Costs,Third Party Injury (Total),105072292.964944
+2023,202309,Ultimate Costs,Third Party Injury (Total),111760890.64341
+2023,202312,Ultimate Costs,Third Party Injury (Total),105438843.707776
+2024,202403,Ultimate Costs,Third Party Injury (Total),127943430.644634
+2024,202406,Ultimate Costs,Third Party Injury (Total),111262754.732467
+2024,202409,Ultimate Costs,Third Party Injury (Total),110928803.878648
+2024,202412,Ultimate Costs,Third Party Injury (Total),113423711.03020701
+2010,201003,Ultimate Costs,Windscreen,6062289.54
+2010,201006,Ultimate Costs,Windscreen,5687376.97
+2010,201009,Ultimate Costs,Windscreen,4983650.5200000005
+2010,201012,Ultimate Costs,Windscreen,5305874.88
+2011,201103,Ultimate Costs,Windscreen,5574229.32
+2011,201106,Ultimate Costs,Windscreen,4765108.83
+2011,201109,Ultimate Costs,Windscreen,4554805.65
+2011,201112,Ultimate Costs,Windscreen,4339480.3
+2012,201203,Ultimate Costs,Windscreen,4233698.82
+2012,201206,Ultimate Costs,Windscreen,4307038.16
+2012,201209,Ultimate Costs,Windscreen,4090750.13
+2012,201212,Ultimate Costs,Windscreen,3826817.22
+2013,201303,Ultimate Costs,Windscreen,4243792.84
+2013,201306,Ultimate Costs,Windscreen,4401734.24
+2013,201309,Ultimate Costs,Windscreen,4140364.44
+2013,201312,Ultimate Costs,Windscreen,3605530.6
+2014,201403,Ultimate Costs,Windscreen,4128895.66
+2014,201406,Ultimate Costs,Windscreen,4110793.08
+2014,201409,Ultimate Costs,Windscreen,3757682.24
+2014,201412,Ultimate Costs,Windscreen,3441720.74
+2015,201503,Ultimate Costs,Windscreen,3892396.35
+2015,201506,Ultimate Costs,Windscreen,3973330.19
+2015,201509,Ultimate Costs,Windscreen,3417193.267
+2015,201512,Ultimate Costs,Windscreen,3044378.13711
+2016,201603,Ultimate Costs,Windscreen,3778677.09271
+2016,201606,Ultimate Costs,Windscreen,3957248.3438
+2016,201609,Ultimate Costs,Windscreen,3395901.72852
+2016,201612,Ultimate Costs,Windscreen,2979779.2966899998
+2017,201703,Ultimate Costs,Windscreen,3281140.82122
+2017,201706,Ultimate Costs,Windscreen,3644320.14109
+2017,201709,Ultimate Costs,Windscreen,3316627.4431
+2017,201712,Ultimate Costs,Windscreen,3081371.87519
+2018,201803,Ultimate Costs,Windscreen,3941243.2278
+2018,201806,Ultimate Costs,Windscreen,4570485.05737
+2018,201809,Ultimate Costs,Windscreen,3668920.61152
+2018,201812,Ultimate Costs,Windscreen,3068959.82239
+2019,201903,Ultimate Costs,Windscreen,3467251.83946
+2019,201906,Ultimate Costs,Windscreen,3794366.24008
+2019,201909,Ultimate Costs,Windscreen,3536289.86046
+2019,201912,Ultimate Costs,Windscreen,3237779.03869
+2020,202003,Ultimate Costs,Windscreen,3463382.40413
+2020,202006,Ultimate Costs,Windscreen,2903717.01017
+2020,202009,Ultimate Costs,Windscreen,4311497.44055
+2020,202012,Ultimate Costs,Windscreen,3385380.2711199997
+2021,202103,Ultimate Costs,Windscreen,3744309.54741
+2021,202106,Ultimate Costs,Windscreen,4926260.7141700005
+2021,202109,Ultimate Costs,Windscreen,4975839.34722
+2021,202112,Ultimate Costs,Windscreen,3842398.83318
+2022,202203,Ultimate Costs,Windscreen,4549722.24165
+2022,202206,Ultimate Costs,Windscreen,4961702.229103
+2022,202209,Ultimate Costs,Windscreen,4881214.869524
+2022,202212,Ultimate Costs,Windscreen,4316322.6523400005
+2023,202303,Ultimate Costs,Windscreen,5134353.554487
+2023,202306,Ultimate Costs,Windscreen,6323443.860649
+2023,202309,Ultimate Costs,Windscreen,5253708.501137
+2023,202312,Ultimate Costs,Windscreen,4528485.952982
+2024,202403,Ultimate Costs,Windscreen,5938511.569225
+2024,202406,Ultimate Costs,Windscreen,6892872.82938
+2024,202409,Ultimate Costs,Windscreen,5721005.459232
+2024,202412,Ultimate Costs,Windscreen,3989455.730035
+2010,201003,Ultimate Numbers (incl. nils),Accidental Damage,20545
+2010,201006,Ultimate Numbers (incl. nils),Accidental Damage,17262
+2010,201009,Ultimate Numbers (incl. nils),Accidental Damage,17203
+2010,201012,Ultimate Numbers (incl. nils),Accidental Damage,22335
+2011,201103,Ultimate Numbers (incl. nils),Accidental Damage,16171
+2011,201106,Ultimate Numbers (incl. nils),Accidental Damage,15298
+2011,201109,Ultimate Numbers (incl. nils),Accidental Damage,15487
+2011,201112,Ultimate Numbers (incl. nils),Accidental Damage,19781
+2012,201203,Ultimate Numbers (incl. nils),Accidental Damage,15593
+2012,201206,Ultimate Numbers (incl. nils),Accidental Damage,16660
+2012,201209,Ultimate Numbers (incl. nils),Accidental Damage,16215
+2012,201212,Ultimate Numbers (incl. nils),Accidental Damage,18212
+2013,201303,Ultimate Numbers (incl. nils),Accidental Damage,16867
+2013,201306,Ultimate Numbers (incl. nils),Accidental Damage,16231
+2013,201309,Ultimate Numbers (incl. nils),Accidental Damage,16447
+2013,201312,Ultimate Numbers (incl. nils),Accidental Damage,19039
+2014,201403,Ultimate Numbers (incl. nils),Accidental Damage,18894
+2014,201406,Ultimate Numbers (incl. nils),Accidental Damage,16261
+2014,201409,Ultimate Numbers (incl. nils),Accidental Damage,16253
+2014,201412,Ultimate Numbers (incl. nils),Accidental Damage,19197
+2015,201503,Ultimate Numbers (incl. nils),Accidental Damage,17374
+2015,201506,Ultimate Numbers (incl. nils),Accidental Damage,14982
+2015,201509,Ultimate Numbers (incl. nils),Accidental Damage,14496
+2015,201512,Ultimate Numbers (incl. nils),Accidental Damage,17006
+2016,201603,Ultimate Numbers (incl. nils),Accidental Damage,15162
+2016,201606,Ultimate Numbers (incl. nils),Accidental Damage,13359
+2016,201609,Ultimate Numbers (incl. nils),Accidental Damage,12388
+2016,201612,Ultimate Numbers (incl. nils),Accidental Damage,13800
+2017,201703,Ultimate Numbers (incl. nils),Accidental Damage,12628
+2017,201706,Ultimate Numbers (incl. nils),Accidental Damage,11833
+2017,201709,Ultimate Numbers (incl. nils),Accidental Damage,11848
+2017,201712,Ultimate Numbers (incl. nils),Accidental Damage,13962
+2018,201803,Ultimate Numbers (incl. nils),Accidental Damage,13257
+2018,201806,Ultimate Numbers (incl. nils),Accidental Damage,11686
+2018,201809,Ultimate Numbers (incl. nils),Accidental Damage,11503
+2018,201812,Ultimate Numbers (incl. nils),Accidental Damage,13344
+2019,201903,Ultimate Numbers (incl. nils),Accidental Damage,12036
+2019,201906,Ultimate Numbers (incl. nils),Accidental Damage,11470
+2019,201909,Ultimate Numbers (incl. nils),Accidental Damage,12007
+2019,201912,Ultimate Numbers (incl. nils),Accidental Damage,14417
+2020,202003,Ultimate Numbers (incl. nils),Accidental Damage,11843.23
+2020,202006,Ultimate Numbers (incl. nils),Accidental Damage,4940.30659
+2020,202009,Ultimate Numbers (incl. nils),Accidental Damage,9855.544240000001
+2020,202012,Ultimate Numbers (incl. nils),Accidental Damage,10501.57564
+2021,202103,Ultimate Numbers (incl. nils),Accidental Damage,7061.6482000000005
+2021,202106,Ultimate Numbers (incl. nils),Accidental Damage,10055.67448
+2021,202109,Ultimate Numbers (incl. nils),Accidental Damage,12353.35364
+2021,202112,Ultimate Numbers (incl. nils),Accidental Damage,14768.44639
+2022,202203,Ultimate Numbers (incl. nils),Accidental Damage,13795.238111
+2022,202206,Ultimate Numbers (incl. nils),Accidental Damage,14592.697098999999
+2022,202209,Ultimate Numbers (incl. nils),Accidental Damage,14973.359198
+2022,202212,Ultimate Numbers (incl. nils),Accidental Damage,18268.223134
+2023,202303,Ultimate Numbers (incl. nils),Accidental Damage,16305.861766
+2023,202306,Ultimate Numbers (incl. nils),Accidental Damage,16361.597421
+2023,202309,Ultimate Numbers (incl. nils),Accidental Damage,16667.538675
+2023,202312,Ultimate Numbers (incl. nils),Accidental Damage,19628.566048
+2024,202403,Ultimate Numbers (incl. nils),Accidental Damage,18032.927986
+2024,202406,Ultimate Numbers (incl. nils),Accidental Damage,16419.20697
+2024,202409,Ultimate Numbers (incl. nils),Accidental Damage,16426.439198
+2024,202412,Ultimate Numbers (incl. nils),Accidental Damage,17151.442219
+2010,201003,Ultimate Numbers (incl. nils),Fire and Theft,4290.664596
+2010,201006,Ultimate Numbers (incl. nils),Fire and Theft,4100.068322
+2010,201009,Ultimate Numbers (incl. nils),Fire and Theft,4097.31677
+2010,201012,Ultimate Numbers (incl. nils),Fire and Theft,4814.95031
+2011,201103,Ultimate Numbers (incl. nils),Fire and Theft,4200.022164
+2011,201106,Ultimate Numbers (incl. nils),Fire and Theft,3845.40026
+2011,201109,Ultimate Numbers (incl. nils),Fire and Theft,3885.378096
+2011,201112,Ultimate Numbers (incl. nils),Fire and Theft,4676.1994780000005
+2012,201203,Ultimate Numbers (incl. nils),Fire and Theft,4232.412136
+2012,201206,Ultimate Numbers (incl. nils),Fire and Theft,4357.426991
+2012,201209,Ultimate Numbers (incl. nils),Fire and Theft,4262.056257
+2012,201212,Ultimate Numbers (incl. nils),Fire and Theft,4559.104614
+2013,201303,Ultimate Numbers (incl. nils),Fire and Theft,4378.646531
+2013,201306,Ultimate Numbers (incl. nils),Fire and Theft,4365.906358
+2013,201309,Ultimate Numbers (incl. nils),Fire and Theft,4208.86445
+2013,201312,Ultimate Numbers (incl. nils),Fire and Theft,4785.582658
+2014,201403,Ultimate Numbers (incl. nils),Fire and Theft,4483.052478
+2014,201406,Ultimate Numbers (incl. nils),Fire and Theft,3910.947521
+2014,201409,Ultimate Numbers (incl. nils),Fire and Theft,3699.861224
+2014,201412,Ultimate Numbers (incl. nils),Fire and Theft,3996.138775
+2015,201503,Ultimate Numbers (incl. nils),Fire and Theft,3634.752346
+2015,201506,Ultimate Numbers (incl. nils),Fire and Theft,3023.446931
+2015,201509,Ultimate Numbers (incl. nils),Fire and Theft,2752.381949
+2015,201512,Ultimate Numbers (incl. nils),Fire and Theft,2810.418772
+2016,201603,Ultimate Numbers (incl. nils),Fire and Theft,2480.1211510000003
+2016,201606,Ultimate Numbers (incl. nils),Fire and Theft,2071.097318
+2016,201609,Ultimate Numbers (incl. nils),Fire and Theft,1993.910625
+2016,201612,Ultimate Numbers (incl. nils),Fire and Theft,2046.870903
+2017,201703,Ultimate Numbers (incl. nils),Fire and Theft,1977.64754
+2017,201706,Ultimate Numbers (incl. nils),Fire and Theft,1842.5409829999999
+2017,201709,Ultimate Numbers (incl. nils),Fire and Theft,1781.401639
+2017,201712,Ultimate Numbers (incl. nils),Fire and Theft,1844.409836
+2018,201803,Ultimate Numbers (incl. nils),Fire and Theft,1826.28534
+2018,201806,Ultimate Numbers (incl. nils),Fire and Theft,1591.090968
+2018,201809,Ultimate Numbers (incl. nils),Fire and Theft,1513.385471
+2018,201812,Ultimate Numbers (incl. nils),Fire and Theft,1867.238219
+2019,201903,Ultimate Numbers (incl. nils),Fire and Theft,1847.234657
+2019,201906,Ultimate Numbers (incl. nils),Fire and Theft,1662.093862
+2019,201909,Ultimate Numbers (incl. nils),Fire and Theft,1802.971119
+2019,201912,Ultimate Numbers (incl. nils),Fire and Theft,1818.700361
+2020,202003,Ultimate Numbers (incl. nils),Fire and Theft,1581.694887
+2020,202006,Ultimate Numbers (incl. nils),Fire and Theft,675.504362
+2020,202009,Ultimate Numbers (incl. nils),Fire and Theft,1187.904482
+2020,202012,Ultimate Numbers (incl. nils),Fire and Theft,1196.117167
+2021,202103,Ultimate Numbers (incl. nils),Fire and Theft,914.10477
+2021,202106,Ultimate Numbers (incl. nils),Fire and Theft,1186.14526
+2021,202109,Ultimate Numbers (incl. nils),Fire and Theft,1257.24068
+2021,202112,Ultimate Numbers (incl. nils),Fire and Theft,1447.30338
+2022,202203,Ultimate Numbers (incl. nils),Fire and Theft,1579.252217
+2022,202206,Ultimate Numbers (incl. nils),Fire and Theft,1778.65204
+2022,202209,Ultimate Numbers (incl. nils),Fire and Theft,1718.890603
+2022,202212,Ultimate Numbers (incl. nils),Fire and Theft,2026.469717
+2023,202303,Ultimate Numbers (incl. nils),Fire and Theft,1807.098226
+2023,202306,Ultimate Numbers (incl. nils),Fire and Theft,1711.933836
+2023,202309,Ultimate Numbers (incl. nils),Fire and Theft,1558.120154
+2023,202312,Ultimate Numbers (incl. nils),Fire and Theft,1763.034142
+2024,202403,Ultimate Numbers (incl. nils),Fire and Theft,1810.777202
+2024,202406,Ultimate Numbers (incl. nils),Fire and Theft,1759.143616
+2024,202409,Ultimate Numbers (incl. nils),Fire and Theft,1682.9777589999999
+2024,202412,Ultimate Numbers (incl. nils),Fire and Theft,1643.784016
+2010,201003,Ultimate Numbers (incl. nils),Third Party Damage,12715
+2010,201006,Ultimate Numbers (incl. nils),Third Party Damage,12328
+2010,201009,Ultimate Numbers (incl. nils),Third Party Damage,12585
+2010,201012,Ultimate Numbers (incl. nils),Third Party Damage,14103
+2011,201103,Ultimate Numbers (incl. nils),Third Party Damage,10738
+2011,201106,Ultimate Numbers (incl. nils),Third Party Damage,11639
+2011,201109,Ultimate Numbers (incl. nils),Third Party Damage,11872
+2011,201112,Ultimate Numbers (incl. nils),Third Party Damage,13304
+2012,201203,Ultimate Numbers (incl. nils),Third Party Damage,12129
+2012,201206,Ultimate Numbers (incl. nils),Third Party Damage,13235
+2012,201209,Ultimate Numbers (incl. nils),Third Party Damage,12823
+2012,201212,Ultimate Numbers (incl. nils),Third Party Damage,13980
+2013,201303,Ultimate Numbers (incl. nils),Third Party Damage,12174
+2013,201306,Ultimate Numbers (incl. nils),Third Party Damage,12291
+2013,201309,Ultimate Numbers (incl. nils),Third Party Damage,11857.10121
+2013,201312,Ultimate Numbers (incl. nils),Third Party Damage,13802.11533
+2014,201403,Ultimate Numbers (incl. nils),Third Party Damage,12262.10606
+2014,201406,Ultimate Numbers (incl. nils),Third Party Damage,11828.094509999999
+2014,201409,Ultimate Numbers (incl. nils),Third Party Damage,11358.08319
+2014,201412,Ultimate Numbers (incl. nils),Third Party Damage,13163.09907
+2015,201503,Ultimate Numbers (incl. nils),Third Party Damage,11547.07708
+2015,201506,Ultimate Numbers (incl. nils),Third Party Damage,10825.06803
+2015,201509,Ultimate Numbers (incl. nils),Third Party Damage,10401.06267
+2015,201512,Ultimate Numbers (incl. nils),Third Party Damage,11468.06612
+2016,201603,Ultimate Numbers (incl. nils),Third Party Damage,10433.05384
+2016,201606,Ultimate Numbers (incl. nils),Third Party Damage,10254.050009999999
+2016,201609,Ultimate Numbers (incl. nils),Third Party Damage,9763.04538
+2016,201612,Ultimate Numbers (incl. nils),Third Party Damage,10401.05178
+2017,201703,Ultimate Numbers (incl. nils),Third Party Damage,9714.24957
+2017,201706,Ultimate Numbers (incl. nils),Third Party Damage,9487.25112
+2017,201709,Ultimate Numbers (incl. nils),Third Party Damage,9852.25325
+2017,201712,Ultimate Numbers (incl. nils),Third Party Damage,10949.25752
+2018,201803,Ultimate Numbers (incl. nils),Third Party Damage,9911.35965
+2018,201806,Ultimate Numbers (incl. nils),Third Party Damage,9928.36884
+2018,201809,Ultimate Numbers (incl. nils),Third Party Damage,9541.36112
+2018,201812,Ultimate Numbers (incl. nils),Third Party Damage,10718.77458
+2019,201903,Ultimate Numbers (incl. nils),Third Party Damage,9492.54813
+2019,201906,Ultimate Numbers (incl. nils),Third Party Damage,9699.80516
+2019,201909,Ultimate Numbers (incl. nils),Third Party Damage,9944.046190000001
+2019,201912,Ultimate Numbers (incl. nils),Third Party Damage,11709.43659
+2020,202003,Ultimate Numbers (incl. nils),Third Party Damage,9168.573277
+2020,202006,Ultimate Numbers (incl. nils),Third Party Damage,3509.596729
+2020,202009,Ultimate Numbers (incl. nils),Third Party Damage,7389.961566
+2020,202012,Ultimate Numbers (incl. nils),Third Party Damage,7739.812855
+2021,202103,Ultimate Numbers (incl. nils),Third Party Damage,4442.7561239999995
+2021,202106,Ultimate Numbers (incl. nils),Third Party Damage,7662.878226
+2021,202109,Ultimate Numbers (incl. nils),Third Party Damage,9081.755318
+2021,202112,Ultimate Numbers (incl. nils),Third Party Damage,10214.236895
+2022,202203,Ultimate Numbers (incl. nils),Third Party Damage,9159.133249
+2022,202206,Ultimate Numbers (incl. nils),Third Party Damage,10153.517959
+2022,202209,Ultimate Numbers (incl. nils),Third Party Damage,10498.932821
+2022,202212,Ultimate Numbers (incl. nils),Third Party Damage,12060.65614
+2023,202303,Ultimate Numbers (incl. nils),Third Party Damage,10889.592814
+2023,202306,Ultimate Numbers (incl. nils),Third Party Damage,11605.125145
+2023,202309,Ultimate Numbers (incl. nils),Third Party Damage,11373.576806
+2023,202312,Ultimate Numbers (incl. nils),Third Party Damage,12615.751421
+2024,202403,Ultimate Numbers (incl. nils),Third Party Damage,12338.894167
+2024,202406,Ultimate Numbers (incl. nils),Third Party Damage,12181.535118
+2024,202409,Ultimate Numbers (incl. nils),Third Party Damage,11536.749316
+2024,202412,Ultimate Numbers (incl. nils),Third Party Damage,11462.680142
+2010,201003,Ultimate Numbers (incl. nils),Third Party Injury (<=250k),3150.7883
+2010,201006,Ultimate Numbers (incl. nils),Third Party Injury (<=250k),3122.103992
+2010,201009,Ultimate Numbers (incl. nils),Third Party Injury (<=250k),3153.103992
+2010,201012,Ultimate Numbers (incl. nils),Third Party Injury (<=250k),3444.530176
+2011,201103,Ultimate Numbers (incl. nils),Third Party Injury (<=250k),2800.34
+2011,201106,Ultimate Numbers (incl. nils),Third Party Injury (<=250k),2861.28
+2011,201109,Ultimate Numbers (incl. nils),Third Party Injury (<=250k),2982.92
+2011,201112,Ultimate Numbers (incl. nils),Third Party Injury (<=250k),3500.26
+2012,201203,Ultimate Numbers (incl. nils),Third Party Injury (<=250k),3419.568006
+2012,201206,Ultimate Numbers (incl. nils),Third Party Injury (<=250k),3316.790419
+2012,201209,Ultimate Numbers (incl. nils),Third Party Injury (<=250k),3194.721984
+2012,201212,Ultimate Numbers (incl. nils),Third Party Injury (<=250k),3574.320786
+2013,201303,Ultimate Numbers (incl. nils),Third Party Injury (<=250k),3097.36124
+2013,201306,Ultimate Numbers (incl. nils),Third Party Injury (<=250k),2958.64341
+2013,201309,Ultimate Numbers (incl. nils),Third Party Injury (<=250k),3027.590697
+2013,201312,Ultimate Numbers (incl. nils),Third Party Injury (<=250k),3568.699224
+2014,201403,Ultimate Numbers (incl. nils),Third Party Injury (<=250k),3332.860824
+2014,201406,Ultimate Numbers (incl. nils),Third Party Injury (<=250k),3176.674432
+2014,201409,Ultimate Numbers (incl. nils),Third Party Injury (<=250k),3100.03395
+2014,201412,Ultimate Numbers (incl. nils),Third Party Injury (<=250k),3911.81972
+2015,201503,Ultimate Numbers (incl. nils),Third Party Injury (<=250k),3330.683724
+2015,201506,Ultimate Numbers (incl. nils),Third Party Injury (<=250k),3052.768491
+2015,201509,Ultimate Numbers (incl. nils),Third Party Injury (<=250k),2940.410316
+2015,201512,Ultimate Numbers (incl. nils),Third Party Injury (<=250k),3368.522036
+2016,201603,Ultimate Numbers (incl. nils),Third Party Injury (<=250k),3179.218469
+2016,201606,Ultimate Numbers (incl. nils),Third Party Injury (<=250k),2983.811184
+2016,201609,Ultimate Numbers (incl. nils),Third Party Injury (<=250k),2841.560623
+2016,201612,Ultimate Numbers (incl. nils),Third Party Injury (<=250k),3310.75764
+2017,201703,Ultimate Numbers (incl. nils),Third Party Injury (<=250k),3046.240903
+2017,201706,Ultimate Numbers (incl. nils),Third Party Injury (<=250k),2855.400591
+2017,201709,Ultimate Numbers (incl. nils),Third Party Injury (<=250k),2792.912479
+2017,201712,Ultimate Numbers (incl. nils),Third Party Injury (<=250k),3317.727136
+2018,201803,Ultimate Numbers (incl. nils),Third Party Injury (<=250k),2889.168447
+2018,201806,Ultimate Numbers (incl. nils),Third Party Injury (<=250k),2884.622809
+2018,201809,Ultimate Numbers (incl. nils),Third Party Injury (<=250k),2639.02624
+2018,201812,Ultimate Numbers (incl. nils),Third Party Injury (<=250k),3368.070304
+2019,201903,Ultimate Numbers (incl. nils),Third Party Injury (<=250k),2895.315615
+2019,201906,Ultimate Numbers (incl. nils),Third Party Injury (<=250k),2608.015111
+2019,201909,Ultimate Numbers (incl. nils),Third Party Injury (<=250k),2886.279211
+2019,201912,Ultimate Numbers (incl. nils),Third Party Injury (<=250k),3427.058218
+2020,202003,Ultimate Numbers (incl. nils),Third Party Injury (<=250k),2697.150714
+2020,202006,Ultimate Numbers (incl. nils),Third Party Injury (<=250k),1016.157483
+2020,202009,Ultimate Numbers (incl. nils),Third Party Injury (<=250k),2188.764608
+2020,202012,Ultimate Numbers (incl. nils),Third Party Injury (<=250k),2301.74847
+2021,202103,Ultimate Numbers (incl. nils),Third Party Injury (<=250k),1312.385619
+2021,202106,Ultimate Numbers (incl. nils),Third Party Injury (<=250k),2169.451433
+2021,202109,Ultimate Numbers (incl. nils),Third Party Injury (<=250k),2429.399389
+2021,202112,Ultimate Numbers (incl. nils),Third Party Injury (<=250k),2675.387078
+2022,202203,Ultimate Numbers (incl. nils),Third Party Injury (<=250k),2455.367994
+2022,202206,Ultimate Numbers (incl. nils),Third Party Injury (<=250k),2462.270099
+2022,202209,Ultimate Numbers (incl. nils),Third Party Injury (<=250k),2463.41245
+2022,202212,Ultimate Numbers (incl. nils),Third Party Injury (<=250k),2938.667717
+2023,202303,Ultimate Numbers (incl. nils),Third Party Injury (<=250k),2632.718743
+2023,202306,Ultimate Numbers (incl. nils),Third Party Injury (<=250k),2652.477935
+2023,202309,Ultimate Numbers (incl. nils),Third Party Injury (<=250k),2508.439232
+2023,202312,Ultimate Numbers (incl. nils),Third Party Injury (<=250k),3195.625344
+2024,202403,Ultimate Numbers (incl. nils),Third Party Injury (<=250k),2995.229322
+2024,202406,Ultimate Numbers (incl. nils),Third Party Injury (<=250k),2902.21361
+2024,202409,Ultimate Numbers (incl. nils),Third Party Injury (<=250k),2734.063339
+2024,202412,Ultimate Numbers (incl. nils),Third Party Injury (<=250k),2808.10416
+2010,201003,Ultimate Numbers (incl. nils),Third Party Injury (>250k),66.063138
+2010,201006,Ultimate Numbers (incl. nils),Third Party Injury (>250k),64.094707
+2010,201009,Ultimate Numbers (incl. nils),Third Party Injury (>250k),72.157845
+2010,201012,Ultimate Numbers (incl. nils),Third Party Injury (>250k),71.157845
+2011,201103,Ultimate Numbers (incl. nils),Third Party Injury (>250k),60.02
+2011,201106,Ultimate Numbers (incl. nils),Third Party Injury (>250k),63.05
+2011,201109,Ultimate Numbers (incl. nils),Third Party Injury (>250k),63.04
+2011,201112,Ultimate Numbers (incl. nils),Third Party Injury (>250k),82.09
+2012,201203,Ultimate Numbers (incl. nils),Third Party Injury (>250k),79.222412
+2012,201206,Ultimate Numbers (incl. nils),Third Party Injury (>250k),78.11976
+2012,201209,Ultimate Numbers (incl. nils),Third Party Injury (>250k),70.11976
+2012,201212,Ultimate Numbers (incl. nils),Third Party Injury (>250k),86.136869
+2013,201303,Ultimate Numbers (incl. nils),Third Party Injury (>250k),83.12093
+2013,201306,Ultimate Numbers (incl. nils),Third Party Injury (>250k),82.28217000000001
+2013,201309,Ultimate Numbers (incl. nils),Third Party Injury (>250k),80.20155
+2013,201312,Ultimate Numbers (incl. nils),Third Party Injury (>250k),88.100775
+2014,201403,Ultimate Numbers (incl. nils),Third Party Injury (>250k),74.077319
+2014,201406,Ultimate Numbers (incl. nils),Third Party Injury (>250k),92.175783
+2014,201409,Ultimate Numbers (incl. nils),Third Party Injury (>250k),85.20759
+2014,201412,Ultimate Numbers (incl. nils),Third Party Injury (>250k),104.206327
+2015,201503,Ultimate Numbers (incl. nils),Third Party Injury (>250k),87.147474
+2015,201506,Ultimate Numbers (incl. nils),Third Party Injury (>250k),72.134819
+2015,201509,Ultimate Numbers (incl. nils),Third Party Injury (>250k),69.140069
+2015,201512,Ultimate Numbers (incl. nils),Third Party Injury (>250k),69.069919
+2016,201603,Ultimate Numbers (incl. nils),Third Party Injury (>250k),71.10603
+2016,201606,Ultimate Numbers (incl. nils),Third Party Injury (>250k),73.067648
+2016,201609,Ultimate Numbers (incl. nils),Third Party Injury (>250k),71.072708
+2016,201612,Ultimate Numbers (incl. nils),Third Party Injury (>250k),73.024118
+2017,201703,Ultimate Numbers (incl. nils),Third Party Injury (>250k),71.228647
+2017,201706,Ultimate Numbers (incl. nils),Third Party Injury (>250k),79.256922
+2017,201709,Ultimate Numbers (incl. nils),Third Party Injury (>250k),81.304919
+2017,201712,Ultimate Numbers (incl. nils),Third Party Injury (>250k),93.567854
+2018,201803,Ultimate Numbers (incl. nils),Third Party Injury (>250k),71.253368
+2018,201806,Ultimate Numbers (incl. nils),Third Party Injury (>250k),57.200919999999996
+2018,201809,Ultimate Numbers (incl. nils),Third Party Injury (>250k),80.242976
+2018,201812,Ultimate Numbers (incl. nils),Third Party Injury (>250k),82.800751
+2019,201903,Ultimate Numbers (incl. nils),Third Party Injury (>250k),64.02709
+2019,201906,Ultimate Numbers (incl. nils),Third Party Injury (>250k),65.20002
+2019,201909,Ultimate Numbers (incl. nils),Third Party Injury (>250k),65.13986
+2019,201912,Ultimate Numbers (incl. nils),Third Party Injury (>250k),81.566086
+2020,202003,Ultimate Numbers (incl. nils),Third Party Injury (>250k),59.334571
+2020,202006,Ultimate Numbers (incl. nils),Third Party Injury (>250k),34.196436
+2020,202009,Ultimate Numbers (incl. nils),Third Party Injury (>250k),55.906742
+2020,202012,Ultimate Numbers (incl. nils),Third Party Injury (>250k),61.480634
+2021,202103,Ultimate Numbers (incl. nils),Third Party Injury (>250k),33.627051
+2021,202106,Ultimate Numbers (incl. nils),Third Party Injury (>250k),41.321587
+2021,202109,Ultimate Numbers (incl. nils),Third Party Injury (>250k),70.515971
+2021,202112,Ultimate Numbers (incl. nils),Third Party Injury (>250k),74.649865
+2022,202203,Ultimate Numbers (incl. nils),Third Party Injury (>250k),70.099399
+2022,202206,Ultimate Numbers (incl. nils),Third Party Injury (>250k),66.169347
+2022,202209,Ultimate Numbers (incl. nils),Third Party Injury (>250k),60.929066
+2022,202212,Ultimate Numbers (incl. nils),Third Party Injury (>250k),70.225586
+2023,202303,Ultimate Numbers (incl. nils),Third Party Injury (>250k),72.694354
+2023,202306,Ultimate Numbers (incl. nils),Third Party Injury (>250k),68.355575
+2023,202309,Ultimate Numbers (incl. nils),Third Party Injury (>250k),67.563783
+2023,202312,Ultimate Numbers (incl. nils),Third Party Injury (>250k),68.471308
+2024,202403,Ultimate Numbers (incl. nils),Third Party Injury (>250k),78.806455
+2024,202406,Ultimate Numbers (incl. nils),Third Party Injury (>250k),64.141765
+2024,202409,Ultimate Numbers (incl. nils),Third Party Injury (>250k),63.262855
+2024,202412,Ultimate Numbers (incl. nils),Third Party Injury (>250k),80.67384200000001
+2010,201003,Ultimate Numbers (incl. nils),Third Party Injury (Total),3216.851439
+2010,201006,Ultimate Numbers (incl. nils),Third Party Injury (Total),3186.1987
+2010,201009,Ultimate Numbers (incl. nils),Third Party Injury (Total),3225.261838
+2010,201012,Ultimate Numbers (incl. nils),Third Party Injury (Total),3515.688022
+2011,201103,Ultimate Numbers (incl. nils),Third Party Injury (Total),2860.36
+2011,201106,Ultimate Numbers (incl. nils),Third Party Injury (Total),2924.33
+2011,201109,Ultimate Numbers (incl. nils),Third Party Injury (Total),3045.96
+2011,201112,Ultimate Numbers (incl. nils),Third Party Injury (Total),3582.35
+2012,201203,Ultimate Numbers (incl. nils),Third Party Injury (Total),3498.790419
+2012,201206,Ultimate Numbers (incl. nils),Third Party Injury (Total),3394.910179
+2012,201209,Ultimate Numbers (incl. nils),Third Party Injury (Total),3264.841745
+2012,201212,Ultimate Numbers (incl. nils),Third Party Injury (Total),3660.457656
+2013,201303,Ultimate Numbers (incl. nils),Third Party Injury (Total),3180.48217
+2013,201306,Ultimate Numbers (incl. nils),Third Party Injury (Total),3040.925581
+2013,201309,Ultimate Numbers (incl. nils),Third Party Injury (Total),3107.7922479999997
+2013,201312,Ultimate Numbers (incl. nils),Third Party Injury (Total),3656.8
+2014,201403,Ultimate Numbers (incl. nils),Third Party Injury (Total),3406.938144
+2014,201406,Ultimate Numbers (incl. nils),Third Party Injury (Total),3268.849875
+2014,201409,Ultimate Numbers (incl. nils),Third Party Injury (Total),3185.241411
+2014,201412,Ultimate Numbers (incl. nils),Third Party Injury (Total),4016.0244669999997
+2015,201503,Ultimate Numbers (incl. nils),Third Party Injury (Total),3417.830409
+2015,201506,Ultimate Numbers (incl. nils),Third Party Injury (Total),3124.90238
+2015,201509,Ultimate Numbers (incl. nils),Third Party Injury (Total),3009.5499760000002
+2015,201512,Ultimate Numbers (incl. nils),Third Party Injury (Total),3437.591406
+2016,201603,Ultimate Numbers (incl. nils),Third Party Injury (Total),3250.3258690000002
+2016,201606,Ultimate Numbers (incl. nils),Third Party Injury (Total),3057.880452
+2016,201609,Ultimate Numbers (incl. nils),Third Party Injury (Total),2912.634071
+2016,201612,Ultimate Numbers (incl. nils),Third Party Injury (Total),3383.7820580000002
+2017,201703,Ultimate Numbers (incl. nils),Third Party Injury (Total),3117.46955
+2017,201706,Ultimate Numbers (incl. nils),Third Party Injury (Total),2934.659683
+2017,201709,Ultimate Numbers (incl. nils),Third Party Injury (Total),2874.217899
+2017,201712,Ultimate Numbers (incl. nils),Third Party Injury (Total),3411.295751
+2018,201803,Ultimate Numbers (incl. nils),Third Party Injury (Total),2960.422515
+2018,201806,Ultimate Numbers (incl. nils),Third Party Injury (Total),2940.824271
+2018,201809,Ultimate Numbers (incl. nils),Third Party Injury (Total),2719.271487
+2018,201812,Ultimate Numbers (incl. nils),Third Party Injury (Total),3451.873466
+2019,201903,Ultimate Numbers (incl. nils),Third Party Injury (Total),2959.343566
+2019,201906,Ultimate Numbers (incl. nils),Third Party Injury (Total),2673.217192
+2019,201909,Ultimate Numbers (incl. nils),Third Party Injury (Total),2951.422102
+2019,201912,Ultimate Numbers (incl. nils),Third Party Injury (Total),3508.632745
+2020,202003,Ultimate Numbers (incl. nils),Third Party Injury (Total),2756.488205
+2020,202006,Ultimate Numbers (incl. nils),Third Party Injury (Total),1051.353919
+2020,202009,Ultimate Numbers (incl. nils),Third Party Injury (Total),2243.674151
+2020,202012,Ultimate Numbers (incl. nils),Third Party Injury (Total),2363.231555
+2021,202103,Ultimate Numbers (incl. nils),Third Party Injury (Total),1347.01268
+2021,202106,Ultimate Numbers (incl. nils),Third Party Injury (Total),2210.773022
+2021,202109,Ultimate Numbers (incl. nils),Third Party Injury (Total),2499.919303
+2021,202112,Ultimate Numbers (incl. nils),Third Party Injury (Total),2750.043125
+2022,202203,Ultimate Numbers (incl. nils),Third Party Injury (Total),2525.475084
+2022,202206,Ultimate Numbers (incl. nils),Third Party Injury (Total),2527.449017
+2022,202209,Ultimate Numbers (incl. nils),Third Party Injury (Total),2524.341518
+2022,202212,Ultimate Numbers (incl. nils),Third Party Injury (Total),3008.931774
+2023,202303,Ultimate Numbers (incl. nils),Third Party Injury (Total),2705.413099
+2023,202306,Ultimate Numbers (incl. nils),Third Party Injury (Total),2721.936541
+2023,202309,Ultimate Numbers (incl. nils),Third Party Injury (Total),2578.043187
+2023,202312,Ultimate Numbers (incl. nils),Third Party Injury (Total),3264.096643
+2024,202403,Ultimate Numbers (incl. nils),Third Party Injury (Total),3073.02578
+2024,202406,Ultimate Numbers (incl. nils),Third Party Injury (Total),2965.355388
+2024,202409,Ultimate Numbers (incl. nils),Third Party Injury (Total),2797.477646
+2024,202412,Ultimate Numbers (incl. nils),Third Party Injury (Total),2888.778003
+2010,201003,Ultimate Numbers (incl. nils),Windscreen,26002
+2010,201006,Ultimate Numbers (incl. nils),Windscreen,24494
+2010,201009,Ultimate Numbers (incl. nils),Windscreen,21773
+2010,201012,Ultimate Numbers (incl. nils),Windscreen,22607
+2011,201103,Ultimate Numbers (incl. nils),Windscreen,23923
+2011,201106,Ultimate Numbers (incl. nils),Windscreen,22111
+2011,201109,Ultimate Numbers (incl. nils),Windscreen,20368
+2011,201112,Ultimate Numbers (incl. nils),Windscreen,19039
+2012,201203,Ultimate Numbers (incl. nils),Windscreen,18670
+2012,201206,Ultimate Numbers (incl. nils),Windscreen,18879
+2012,201209,Ultimate Numbers (incl. nils),Windscreen,17839
+2012,201212,Ultimate Numbers (incl. nils),Windscreen,16524
+2013,201303,Ultimate Numbers (incl. nils),Windscreen,18722
+2013,201306,Ultimate Numbers (incl. nils),Windscreen,19374
+2013,201309,Ultimate Numbers (incl. nils),Windscreen,18335
+2013,201312,Ultimate Numbers (incl. nils),Windscreen,16312
+2014,201403,Ultimate Numbers (incl. nils),Windscreen,18352
+2014,201406,Ultimate Numbers (incl. nils),Windscreen,18598
+2014,201409,Ultimate Numbers (incl. nils),Windscreen,17078
+2014,201412,Ultimate Numbers (incl. nils),Windscreen,15478
+2015,201503,Ultimate Numbers (incl. nils),Windscreen,17767
+2015,201506,Ultimate Numbers (incl. nils),Windscreen,18041
+2015,201509,Ultimate Numbers (incl. nils),Windscreen,15685
+2015,201512,Ultimate Numbers (incl. nils),Windscreen,13724
+2016,201603,Ultimate Numbers (incl. nils),Windscreen,17232
+2016,201606,Ultimate Numbers (incl. nils),Windscreen,17654
+2016,201609,Ultimate Numbers (incl. nils),Windscreen,15192
+2016,201612,Ultimate Numbers (incl. nils),Windscreen,13403
+2017,201703,Ultimate Numbers (incl. nils),Windscreen,14571
+2017,201706,Ultimate Numbers (incl. nils),Windscreen,16073
+2017,201709,Ultimate Numbers (incl. nils),Windscreen,14738
+2017,201712,Ultimate Numbers (incl. nils),Windscreen,13527
+2018,201803,Ultimate Numbers (incl. nils),Windscreen,17273
+2018,201806,Ultimate Numbers (incl. nils),Windscreen,19402
+2018,201809,Ultimate Numbers (incl. nils),Windscreen,15678
+2018,201812,Ultimate Numbers (incl. nils),Windscreen,13376
+2019,201903,Ultimate Numbers (incl. nils),Windscreen,14897
+2019,201906,Ultimate Numbers (incl. nils),Windscreen,16359
+2019,201909,Ultimate Numbers (incl. nils),Windscreen,15019
+2019,201912,Ultimate Numbers (incl. nils),Windscreen,13735
+2020,202003,Ultimate Numbers (incl. nils),Windscreen,14418
+2020,202006,Ultimate Numbers (incl. nils),Windscreen,11549
+2020,202009,Ultimate Numbers (incl. nils),Windscreen,17104.163090000002
+2020,202012,Ultimate Numbers (incl. nils),Windscreen,13275.1288
+2021,202103,Ultimate Numbers (incl. nils),Windscreen,14516.31131
+2021,202106,Ultimate Numbers (incl. nils),Windscreen,18731.35936
+2021,202109,Ultimate Numbers (incl. nils),Windscreen,18366.36006
+2021,202112,Ultimate Numbers (incl. nils),Windscreen,14153.42238
+2022,202203,Ultimate Numbers (incl. nils),Windscreen,16599.79686
+2022,202206,Ultimate Numbers (incl. nils),Windscreen,17912.09262
+2022,202209,Ultimate Numbers (incl. nils),Windscreen,17471.09262
+2022,202212,Ultimate Numbers (incl. nils),Windscreen,15072.51075
+2023,202303,Ultimate Numbers (incl. nils),Windscreen,17997.888785
+2023,202306,Ultimate Numbers (incl. nils),Windscreen,21236.743654
+2023,202309,Ultimate Numbers (incl. nils),Windscreen,17916.098827
+2023,202312,Ultimate Numbers (incl. nils),Windscreen,15724.550857
+2024,202403,Ultimate Numbers (incl. nils),Windscreen,19112.403125
+2024,202406,Ultimate Numbers (incl. nils),Windscreen,20953.240791
+2024,202409,Ultimate Numbers (incl. nils),Windscreen,17746.920448
+2024,202412,Ultimate Numbers (incl. nils),Windscreen,13070.063292
